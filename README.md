@@ -19,7 +19,7 @@ A desktop client that provides:
 - Delta synchronization with a reference client (downloads only modified files)
 - Local gateway setup for seamless in-game connection
 - Optional remote account registration (if supported by the server)
-
+![Server Browser View](https://i.imgur.com/54cBRje.png)
 ---
 
 ### 🔹 SRO:SH – Server Hub
@@ -116,6 +116,7 @@ Masaüstü istemci uygulaması:
 - Local gateway kurarak oyun içi bağlantıyı kolaylaştırır
 - Desteklenirse uzaktan hesap oluşturma imkanı
 
+![Server Browser View](https://i.imgur.com/54cBRje.png)
 ---
 
 ### 🔹 SRO:SH – Server Hub
