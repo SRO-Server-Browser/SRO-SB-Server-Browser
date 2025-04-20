@@ -1,0 +1,138 @@
+{
+    "info": {
+        "servers": 10,
+        "players": 500,
+        "username": "deneme",
+        "password": "1"
+    },
+    "network": [
+        {
+            "ID": 1,
+            "name": "Server Name 1",
+            "status": "online",
+            "private": 0,
+            "type": "Deathmatch",
+            "players": 100,
+            "max_players": 1000,
+            "IP": [
+                "127.0.0.1"
+            ],
+            "Port": 8888,
+            "web": "https://www.vsro.org/",
+            "description": "This server is great",
+            "ping": 50,
+            "ping_last_1_hours": [
+                50,
+                55,
+                50,
+                55,
+                60,
+                55,
+                50,
+                30,
+                35,
+                40
+            ],
+            "password_required": 0,
+            "language": "UK",
+            "mode": "x4 Exp",
+            "map": "CH",
+            "banner": "https://tinyjpg.com/images/social/website.jpg",
+            "colour": "white",
+            "repository": "https://raw.githubusercontent.com/SRO-Server-Browser/SRO-SB_Client_Data/master/",
+            "rank": {
+                "player_name_1": 50,
+                "player_name_2": 40,
+                "player_name_3": 10,
+                "player_name_4": 7,
+                "player_name_5": 5
+            }
+        },
+        {
+            "ID": 2,
+            "name": "Server Name 2",
+            "status": "online",
+            "private": 0,
+            "type": "Team Battle",
+            "players": 80,
+            "max_players": 900,
+            "IP": [
+                "127.0.0.2"
+            ],
+            "Port": 8889,
+            "web": "https://www.vsro.org/",
+            "description": "Join the battlefield",
+            "ping": 45,
+            "ping_last_1_hours": [
+                45,
+                46,
+                50,
+                48,
+                50,
+                52,
+                48,
+                40,
+                42,
+                41
+            ],
+            "password_required": 1,
+            "language": "TR",
+            "mode": "x1 Exp",
+            "map": "EU",
+            "banner": "https://tinyjpg.com/images/social/website.jpg",
+            "colour": "red",
+            "repository": "https://raw.githubusercontent.com/SRO-Server-Browser/SRO-SB_Client_Data/master/",
+            "rank": {
+                "player_name_1": 70,
+                "player_name_2": 20,
+                "player_name_3": 15,
+                "player_name_4": 10,
+                "player_name_5": 5
+            }
+        }
+    ],
+    "favorites": [
+        {
+            "ID": "jlVeCSnFTDGkP9BE6GQJaQ==",
+            "name": "Silvarya",
+            "status": "online",
+            "private": 0,
+            "type": "Deathmatch",
+            "players": 0,
+            "max_players": 1500,
+            "IP": [
+                "gateway1.kguardedge.com",
+                "gateway2.kguardedge.com",
+                "gateway3.kguardedge.com",
+                "gateway4.kguardedge.com",
+                "gateway5.kguardedge.com",
+                "gateway6.kguardedge.com",
+                "gateway7.kguardedge.com",
+                "gateway8.kguardedge.com"
+            ],
+            "Port": 13304,
+            "web": "www.silvarya.com.tr",
+            "description": "this is a private server",
+            "ping": 50,
+            "ping_last_1_hours": [
+                61.17,
+                58.84,
+                59.42
+            ],
+            "password_required": 0,
+            "language": "TR/EN",
+            "mode": "Standart",
+            "map": "CH/EU",
+            "banner": "https://im.ziffdavisinternational.com/ign_ap/screenshot/s/silkroad-online-still-going-strong/silkroad-online-still-going-strong_y1ve.jpg",
+            "colour": "white",
+            "repository": "https://raw.githubusercontent.com/SRO-Server-Browser/SRO-SB_Client_Data/master/",
+            "rank": {
+                "player_name_1": 50,
+                "player_name_2": 40,
+                "player_name_3": 10,
+                "player_name_4": 7,
+                "player_name_5": 5
+            }
+        }
+    ]
+}
