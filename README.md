@@ -6,7 +6,16 @@ This project aims to streamline the experience for both players and server admin
 > ⚙️ Designed to run efficiently on low-end hardware (e.g. Samsung A31)  
 > 🌐 Capable of listing and syncing a wide array of Silkroad private servers with minimal overhead
 
+
 ---
+
+
+![Active Servers](https://img.shields.io/badge/dynamic/json?color=blue&label=Active%20Servers&query=$.active_servers&url=https://sro-server-browser.github.io/sro-browser-web/data/info.json)
+![Active Players](https://img.shields.io/badge/dynamic/json?color=green&label=Active%20Players&query=$.active_players&url=https://sro-server-browser.github.io/sro-browser-web/data/info.json)
+![Players In Game](https://img.shields.io/badge/dynamic/json?color=yellow&label=Players%20In%20Game&query=$.players_in_game&url=https://sro-server-browser.github.io/sro-browser-web/data/info.json)
+
+---
+
 
 ## 📦 System Components
 
@@ -20,6 +29,7 @@ A desktop client that provides:
 - Local gateway setup for seamless in-game connection
 - Optional remote account registration (if supported by the server)
 <img src="https://i.imgur.com/54cBRje.png" alt="Server Browser View" width="300"/>
+
 ---
 
 ### 🔹 SRO:SH – Server Hub
